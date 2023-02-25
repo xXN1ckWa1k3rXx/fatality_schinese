@@ -17,9 +17,15 @@ description: 欢迎您的阅读查阅、如有错误或新功能请及时联系�
 {% endhint %}
 
 {% hint style="info" %}
+**本翻译由贞德团队原创发布、搬运或者借鉴请注明贞德论坛HVHBBS.COM。**
+{% endhint %}
+
+{% hint style="info" %}
 翻译 by xXN1ck\_Wa1k3rXx
 
 版本: 2023年2月3日更新 （正版）
 
 **这与Cracked版本稍微有些区别**
 {% endhint %}
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
