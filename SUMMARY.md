@@ -16,3 +16,8 @@
 * [ESP - 透视](visuals/esp.md)
 * [MODELS - 模型上色](visuals/models.md)
 * [Misc - 视觉杂项](visuals/misc.md)
+
+## MISC 杂项 <a href="#misc" id="misc"></a>
+
+* [Misc - 杂项](misc/misc.md)
+* [Skin - 皮肤修改](misc/skin.md)
