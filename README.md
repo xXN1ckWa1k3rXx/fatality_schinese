@@ -26,6 +26,8 @@ description: 欢迎您的阅读查阅、如有错误或新功能请及时联系�
 版本: 2023年2月3日更新 （正版）
 
 **这与Cracked版本稍微有些区别**
+
+**如有问题请前往此项目的Github创建Issues:** [**https://github.com/xXN1ckWa1k3rXx/fatality\_schinese/issues**](https://github.com/xXN1ckWa1k3rXx/fatality\_schinese/issues)****
 {% endhint %}
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
